@@ -1,0 +1,11 @@
+/* Testeful recipes */
+.tasteful-recipes{
+    background: url(../images/tasteful-recipes.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.between{
+    min-height: 65vh;
+    display: flex;
+    align-items: center;
+}
